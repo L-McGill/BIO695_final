@@ -1,0 +1,34 @@
+Station_name,Receiver_Serial,MiniDOT_serial,Lat,Long,Waterway,Habitat_type,habitat_type_2,DO_Temp,FO_temp_notes,DO_temp_filename
+Loomis St Bridge,139251,,41.8458209,-87.66110608,South Branch Chicago River,MC_bridge,SBCR,Loomis_MWRD,,Rec_139251_DO
+Kiwanis Park,139253,,41.97303,-87.7119,North Branch Chicago River,NB_natural,NBCR,,No detections,
+Bubbly creek I-55,139254,,41.839284,-87.664193,Bubbly Creek,BC_bridge,BC,BC_I55_MWRD,,Rec_139254_DO
+I55 Bridge,139255,,41.79653,-87.812297,Chicago Sanitary and Ship Canal,MC_bridge,CSSC,BO_RR_MWRD,,Rec_139255_DO
+Ping Tom Park,139256,,41.85539,-87.636933,South Branch Chicago River,MC_bridge,SBCR,miniDOT_670871,miniDOT. Changed formatting to match MWRD ,Rec_139256_DO
+Bubbly Creek 35th Street Bridge,139257,,41.830209,-87.657685,Bubbly Creek,BC_bridge,BC,BC_35th_MWRD,,Rec_139257_DO
+Foster,139258,886057,41.9784843,-87.7052795,North Shore Channel,NB_natural,NBCR,MWRD_foster,,Rec_139258_DO
+North Ave,139259,,41.9109025,-87.6572115,North Branch Chicago River,turning_basin,turning_basin,Division_MWRD,,Rec_139259_DO
+Richard Daley Dock,139261,,41.8368666,-87.6878338,Chicago Sanitary and Ship Canal,MC_bridge,CSSC,Cicero_MWRD,,Rec_139261_DO
+Cicero Bridge,139262,,41.819253,-87.7437863,Chicago Sanitary and Ship Canal,MC_bridge,CSSC,Cicero_MWRD,,Rec_139262_DO
+Stetsons Slip,139263,207302,41.8502006,-87.6621333,South Branch Chicago River,barge_slip,barge_slip,miniDOT_569373,miniDOT. Changed formatting to match MWRD ,Rec_139263_DO
+Kedzie Bridge,139264,,41.831372,-87.7048796,Chicago Sanitary and Ship Canal,MC_bridge,CSSC,Cicero_MWRD,,Rec_139264_DO
+Sampsons Slip,139265,596373,41.849356,-87.659614,South Branch Chicago River,barge_slip,barge_slip,miniDOT_569373,miniDOT. Changed formatting to match MWRD ,Rec_139265_DO
+Argyle Bridge,139266,,41.9721868,-87.7035694,North Branch Chicago River,NB_natural,NBCR,MWRD_foster,,Rec_139266_DO
+Wilemile North,139267,,41.909265,-87.6538377,North Branch Canal,WM,wild_mile,MWRD_division,,Rec_139267_DO
+Arnolds Slip,139268,917658,41.847959,-87.664796,South Branch Chicago River,barge_slip,barge_slip,miniDOT_569373,miniDOT. Changed formatting to match MWRD ,Rec_139268_DO
+Wildmile Center,139269,744012,41.9070036,-87.652125,North Branch Canal,WM,wild_mile,MWRD_division,miniDOT in WM is bad,Rec_139269_DO
+Horner Park,139270,,41.9583429,-87.6946206,North Branch Chicago River,NB_natural,NBCR,MWRD_addison,,Rec_139270_DO
+Division Adjacent,139271,,41.9022861,-87.656331,North Branch Chicago River,MC_bridge,NBCR,Division_MWRD,,Rec_139271_DO
+Halsted Bridge,139272,670871,41.84914,-87.646286,South Branch Chicago River,MC_bridge,SBCR,miniDOT_670871,miniDOT. Changed formatting to match MWRD ,Rec_139272_DO
+Wildmile South,139274,,41.9037499,-87.649745,North Branch Canal,MC_bridge,NBCR,MWRD_division,,Rec_139274_DO
+Elston Ave,139275,,41.9155254,-87.6635769,North Branch Chicago River,MC_bridge,NBCR,MWRD_division,,Rec_139275_DO
+Damen Ave Pylon,139276,,41.8415938,-87.6752158,Chicago Sanitary and Ship Canal,MC_bridge,CSSC,Cicero_MWRD,,Rec_139276_DO
+Damen Silos Slip,490315,,41.841192,-87.671334,Chicago Sanitary and Ship Canal,barge_slip,barge_slip,,IDK,
+Bubbly Creek Wall,490316,,41.83590038,-87.66196803,Bubbly Creek,BC_wall,BC,,leave out no det,
+Wabash Ave Bridge,490317,,41.88822,-87.626869,Main Stem (Downtown),MC_bridge,MS,Michigan_MWRD,,Rec_490317
+Jackson Bridge,490318,,41.878189,-87.638069,South Branch Chicago River,MC_bridge,SBCR,,Leave out. Low detections,
+Kinzie Bridge,490319,,41.8885387,-87.63923,North Branch Chicago River,MC_bridge,NBCR,Division_MWRD,,Rec_490319_DO
+Ashland Bridge,490320,,41.844704,-87.666097,Chicago Sanitary and Ship Canal,MC_bridge,CSSC,Cicero_Loomis_MWRD,Combined (averaged),Rec_490320_DO
+Lakeshore Drive,490321,,41.888713,-87.614373,Main Stem (Downtown),MC_bridge,MS,Michigan_MWRD,,Rec_490321_DO
+Ogden Slip,490322,,41.89042568,-87.61357148,Main Stem (Downtown),MC_bridge,MS,,leave out,
+Park 571,490323,,41.8438479,-87.663708,South Branch Chicago River,turning_basin,turning_basin,Loomis_MWRD,,Rec_490323_DO
+Franklin-Orleans Bridge,490324,,41.8875662,-87.6360884,Main Stem (Downtown),MC_bridge,MS,Michigan_MWRD,,

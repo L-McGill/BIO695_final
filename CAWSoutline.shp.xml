@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20230726</CreaDate><CreaTime>14360400</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Conversion Tools.tbx\GraphicsToFeatures" Date="20230726" Time="143604">GraphicsToFeatures "Graphics Layer" Polygon "C:\Users\ArcGIS\Documents\Happel GIS Data\CAWSoutline.shp" DELETE_GRAPHICS #</Process></lineage></DataProperties></Esri></metadata>
