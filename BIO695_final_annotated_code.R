@@ -55,7 +55,7 @@ bass_det_final <- rename(bass_det_final, "habitat_type" = habitat_type_2)
 bass_det_final <- read_csv("bass_det_final.csv")
 
 # Change timezone. diplyr reads it in as GMT
-bass_det$detection_timestamp_CDT <- with_tz(bass_det_final$detection_timestamp_CDT,
+bass_det_final$detection_timestamp_CDT <- with_tz(bass_det_final$detection_timestamp_CDT,
                                             tzone = "America/Chicago")
 
 ## Get hourly summary for each receiver
