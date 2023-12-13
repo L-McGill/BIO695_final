@@ -51,6 +51,9 @@ bass_det_final <- rename(bass_det_final, "habitat_type" = habitat_type_2)
 
 # Start here if using data downloaded from github:  -----------------------
 
+# read in receivers data w/ habitat type
+receivers <- read_csv("Bio695_filtered_rec_loc.csv")
+
 # Read in bass detection df
 bass_det_final <- read_csv("bass_det_final.csv")
 
